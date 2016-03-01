@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Brian Dietz
 locale:           en_US
 logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Brian Dietz
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: “I’m Brian Dietz.”
+  email: diuhtez@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: diuhtez
   facebook: #username
   google:
     plus: #username
