@@ -3,7 +3,7 @@ title:       Brian Dietz
 email:       diuhtez@gmail.com
 author:      Brian Dietz
 description: "Writings, readings, and resume."
-baseurl:     "bdietz.github.io"
+baseurl:     "bdietz.github.io/posts"
 url:         ""
 date_format: "%b %-d, %Y"
 
