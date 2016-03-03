@@ -4,7 +4,7 @@ email:       diuhtez@gmail.com
 author:      Brian Dietz
 description: "Writings, readings, and resume."
 baseurl:     ""
-url:         ""
+url:         "bdietz.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
