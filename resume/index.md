@@ -1,7 +1,4 @@
-# Resume
-
-## Brian Dietz
-## Address
-## Email
-
-## Work Experience
+---
+layout: resume
+title: Resume
+---
