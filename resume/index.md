@@ -2,6 +2,7 @@
 layout: resume
 title: Resume
 ---
+{% include header.html %}
 
 ## Work Experience
 
