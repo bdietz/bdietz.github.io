@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 ---
 
 Hello, my name is Brian.
