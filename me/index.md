@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Hello, my name is Brian.
+{% include header.html %}
+
+A bit about me...
