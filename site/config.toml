@@ -1,0 +1,55 @@
+baseURL = "https://bdietz/github.io"
+languageCode = "en-us"
+title = "Brian Dietz"
+theme = "smol"
+copyright = "CC-BY"
+
+# Parameters
+[params]
+    subtitle = "Latest Attempt"
+    author = "Brian Dietz"
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+
+    dateFmt = "02.01.2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/bdietz"
+        weight = 1 
+
+#    [[menu.footer]]
+#        name = "Mastodon"
+#        url = "https://example.com/@user"
+#        weight = 2 
+
+#    [[menu.footer]]
+#        name = "Imprint"
+#        url = "/imprint"
+#        weight = 3 
+
+[privacy]
+  [privacy.googleAnalytics]
+     disable = true
